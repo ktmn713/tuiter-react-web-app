@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="/Users/katienguyen/CS5610/tuiter-react-web-app/public/index.html"
           target="_blank"
           rel="noopener noreferrer"
         >
